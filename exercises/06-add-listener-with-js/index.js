@@ -4,3 +4,9 @@ window.onload = function myLoadFunction() {
 };
 
 //the listener function here
+
+
+
+theGreen.addEventListener("click", function() {
+	alert("woohoo!")
+});
